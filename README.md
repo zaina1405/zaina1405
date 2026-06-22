@@ -33,7 +33,6 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ---
 
-### 🐍
 ![Snake animation](https://raw.githubusercontent.com/zaina1405/zaina1405/output/github-contribution-grid-snake.svg)
 
 ---
