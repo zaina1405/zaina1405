@@ -3,7 +3,7 @@
 
 I'm a first-year undergraduate engineering student at the **Lassonde School of Engineering**, passionate about hardware systems, robotics, and anything that moves.
 
-I love getting my hands dirty whether that's wiring up a breadboard, figuring out why my circuit blew up at 2am, or figuring out why my code refuses to talk to my hardware. Currently expanding my skills in **C++**, **Java**, and **Python**, and always looking for the next interesting problem to solve.
+I love getting my hands dirty whether that's wiring up a breadboard, figuring out why my project blew up at 2am, or figuring out why my code refuses to talk to my hardware. Currently expanding my skills in **C++**, **Java**, and **Python**, and always looking for the next interesting problem to solve.
 
 ---
 
@@ -29,7 +29,7 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false" width="420" /> <img src="https://streak-stats.demolab.com?user=zaina1405&theme=default" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false" width="420" /> <img src="https://streak-stats.demolab.com?user=zaina1405&theme=default" width="420" height="195" />
 
 ---
 
