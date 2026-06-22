@@ -31,8 +31,7 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaina1405&theme=default)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaina1405&theme=default)
 
 ---
 
