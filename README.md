@@ -29,7 +29,8 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ---
 
 ### 📊 GitHub Stats
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
+
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false" /></td>
 <td><img src="https://streak-stats.demolab.com?user=zaina1405&theme=default" /></td>
