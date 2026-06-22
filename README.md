@@ -30,12 +30,10 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false)
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaina1405&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaina1405&theme=default)
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/zain-ali822/]
-- Email: [zain.salman@hotmail.com]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali822/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zain.salman@hotmail.com)
