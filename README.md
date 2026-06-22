@@ -1,5 +1,6 @@
 ## Hello there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Robotics+%26+Hardware+Enthusiast;Currently+Learning+Python+%2B+Git+%2B+Claude+Code;Hackathon-Bound+%F0%9F%9A%80;Always+Debugging+Something+at+2am)](https://git.io/typing-svg)
 
 I'm a first-year undergraduate engineering student at the **Lassonde School of Engineering**, passionate about hardware systems, robotics, and anything that moves.
 
@@ -13,14 +14,13 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 - API integration and building basic apps
 
 ### 🎯 Goals
-- Compete in (and win an award at!) an hackathon
+- Compete in (and win an award at!) a hackathon
 - Integrate CV or AI into a robot
 - Learn a new skill every week by building, one project at a time
 
 ---
 
 ### 🛠️ Languages & Tools
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -33,6 +33,15 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ---
 
+### 🐍
+![Snake animation](https://raw.githubusercontent.com/zaina1405/zaina1405/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali822/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zain.salman@hotmail.com)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=zaina1405&style=flat-square&color=blue)
