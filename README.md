@@ -38,10 +38,10 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=zaina1405&style=flat-square&color=blue)
+![Snake animation](https://raw.githubusercontent.com/zaina1405/zaina1405/output/github-contribution-grid-snake.svg)
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/zaina1405/zaina1405/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=zaina1405&style=flat-square&color=blue)
 
 ---
