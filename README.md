@@ -31,11 +31,6 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false" width="420" /> <img src="https://streak-stats.demolab.com?user=zaina1405&theme=default&background=FFFFFF&border=FFFFFF" width="420" />
 
----
-
-![Snake animation](https://raw.githubusercontent.com/zaina1405/zaina1405/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali822/)
@@ -44,3 +39,9 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zaina1405&style=flat-square&color=blue)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/zaina1405/zaina1405/output/github-contribution-grid-snake.svg)
+
+---
