@@ -30,6 +30,7 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaina1405&show_icons=true&theme=radical" width="420" /> <img src="https://streak-stats.demolab.com?user=zaina1405&theme=radical&background=00000000&border=2196F3" width="420" />
+![3d-contrib](https://raw.githubusercontent.com/zaina1405/zaina1405/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ### 📫 Let's Connect
