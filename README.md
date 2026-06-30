@@ -29,7 +29,8 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=default&hide_title=false" width="420" /> <img src="https://streak-stats.demolab.com?user=zaina1405&theme=default&background=FFFFFF&border=FFFFFF" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaina1405&show_icons=true&theme=radical&hide_title=false" width="420" />
+<img src="https://streak-stats.demolab.com?user=zaina1405&theme=radical&background=00000000&border=2196F3" width="420" />
 
 
 ### 📫 Let's Connect
