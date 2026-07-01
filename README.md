@@ -9,14 +9,14 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ---
 
 ### 🚧 Currently Working On
-- Building foundational programming skills through hands-on projects
-- Learning Git/GitHub workflows and Claude Code as part of my dev toolkit
-- API integration and building basic apps
+- Building foundational programming skills through hands-on projects.
+- Learning Git/GitHub workflows and Claude Code as part of my dev toolkit.
+- API integration and building basic apps.
 
 ### 🎯 Goals
-- Compete in (and win an award at!) a hackathon
-- Integrate CV or AI into a robot
-- Learn a new skill every week by building, one project at a time
+- Compete in (and win an award at!) a hackathon.
+- Integrate CV or AI into a robot.
+- Learn a new skill every week by doing.
 
 ---
 
