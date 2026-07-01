@@ -30,8 +30,6 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaina1405&show_icons=true&theme=radical" width="420" /> <img src="https://streak-stats.demolab.com?user=zaina1405&theme=radical&background=00000000&border=2196F3" width="420" />
-![jokes](https://readme-jokes.vercel.app/api)
-
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali822/)
@@ -43,6 +41,7 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ---
 
+![jokes](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 ![Visitor Count](https://komarev.com/ghpvc/?username=zaina1405&style=flat-square&color=blue)
 
 ---
