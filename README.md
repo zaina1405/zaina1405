@@ -41,7 +41,6 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 
 ---
 
-![jokes](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 ![Visitor Count](https://komarev.com/ghpvc/?username=zaina1405&style=flat-square&color=blue)
 
 ---
