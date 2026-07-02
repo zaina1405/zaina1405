@@ -34,6 +34,7 @@ I love getting my hands dirty whether that's wiring up a breadboard, figuring ou
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali822/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zain.salman@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2196F3?style=flat-square&logo=chrome&logoColor=white)](https://zain-ali.com/)
 
 ---
 
