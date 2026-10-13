@@ -10,13 +10,19 @@ I'm a first-year undergraduate engineering student at the **Lassonde School of E
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-1E73BE?style=flat)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-F37021?style=flat&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat)
 
-###  🌱  Interested in learning 
+###  🌱  Interested in/Learning 
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![RAPID](https://img.shields.io/badge/-RAPID-FF000F?style=flat-square&logoColor=white)
 ![URScript](https://img.shields.io/badge/-URScript-1E3A5F?style=flat-square&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white)
+![GFSSP](https://img.shields.io/badge/GFSSP-0B3D91?style=flat&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
