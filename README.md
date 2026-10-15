@@ -1,7 +1,8 @@
-## zain ali
+## zain ali <img src="cursor.svg" height="28">
 
 
 first year eng
+
 🔧 engines & automotive · 🤖 robotics & automation · ⚡ embedded & electrical · ✈️ aerospace & drones
 
 
